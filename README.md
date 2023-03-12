@@ -1,2 +1,2 @@
-# mywork01
+# Diagnostic Management System 
 This is for git text 
